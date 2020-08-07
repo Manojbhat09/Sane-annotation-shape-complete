@@ -31,6 +31,10 @@ Debugging
 - Use pdb
 - Use visdom provided to display output plots of completion
 
+<p align="center">
+  <img width="860" height="400" src="media/point_complete.gif">
+</p>
+
 ### Progress
 - [x] Adding PointCNN Segmentation model
 - [x] Adding PointRCNN Box regresssion backend
