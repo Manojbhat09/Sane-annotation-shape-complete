@@ -1,0 +1,2 @@
+conda install pyntcloud -c conda-forgeconda install faiss-gpu cudatoolkit=10.0 -c pytorch # For CUDA10
+conda install -c conda-forge visdom
