@@ -1,4 +1,12 @@
-# sane-annotation-shape-completion (WIP)
+# SANE Shape-completion
+
+### Reading:
+A starting point for a good 3D point-cloud annotation software is here:
+
+[Density-adaptive Sampling for Heterogeneous Point Cloud
+Object Segmentation in Autonomous Vehicle Applications](https://openaccess.thecvf.com/content_CVPRW_2019/papers/UG2+%20Prize%20Challenge/Arief_Density-Adaptive_Sampling_for_Heterogeneous_Point_Cloud_Object_Segmentation_in_Autonomous_CVPRW_2019_paper.pdf)
+
+[Github link](https://github.com/hasanari/sane)
 
 ## Environment
 Tested on Debian 9.9, Cuda: 10.0, Python: 3.6, Pytorch: 1.2.0 with Anaconda
@@ -44,4 +52,6 @@ Debugging
 - [x] Upgrade Encode decoder to PointCompletion Network to get robust Point Completion
 - [x] Display Shape completion with Convex hulling
 - [x] Adding Kalman filter tracking 
-- [ ] Use Deep learning model to do direct shape completion with image & Pointcloud
+- [x] Use Deep learning model to do direct shape completion with image & Pointcloud
+
+
